@@ -5,3 +5,9 @@ pytest
 psycopg[binary]
 python-dotenv
 pytest
+
+psycopg[binary]
+python-dotenv
+pytest
+pyarrow
+pandas
